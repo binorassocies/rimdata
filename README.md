@@ -1,0 +1,2 @@
+# rimdata
+Data about Mauritania
